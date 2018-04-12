@@ -1,0 +1,9 @@
+node_modules
+tmp
+db/*.sqlite3
+log
+.DS_STORE
+.DS_Store
+bower_components
+coverage
+.byebug_history
